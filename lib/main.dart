@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'produk/list_product.dart';
+import 'produk/list_product.dart';       // Import halaman daftar produk kamu
+import 'service/api_service.dart'; 
 
 void main() {
   runApp(const MyApp());
